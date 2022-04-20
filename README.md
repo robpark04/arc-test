@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), and powered by [uniswap-dapp-integration-shared](https://github.com/joshstevens19/uniswap-dapp-integration-monorepo/tree/master/shared) and [antd](https://github.com/ant-design/ant-design).
 
+You should install Metamask Wallet before using this app.
+
 ## Available Scripts
 
 In the project directory, you can run:
